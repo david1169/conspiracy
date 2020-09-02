@@ -2,7 +2,7 @@
   "name": "conspiracy",
   "version": "1.0.0",
   "description": "Website dedicated to sharing conspiracy-related ideas",
-  "main": "index.js",
+  "main": "lib/index.js",
   "directories": {
     "lib": "lib"
   },
