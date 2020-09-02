@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/david1169/conspiracy/issues"
   },
-  "homepage": "https://github.com/david1169/conspiracy#readme"
+  "homepage": "https://github.com/david1169/conspiracy#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
