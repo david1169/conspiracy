@@ -1,0 +1,5 @@
+#This folder should appear when you run the command 'npm init'
+node_modules/
+
+#Not sure what this is
+package-lock.json
