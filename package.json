@@ -1,7 +1,7 @@
 {
   "name": "conspiracy",
   "version": "1.0.0",
-  "description": "",
+  "description": "Website dedicated to sharing conspiracy-related ideas",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -13,8 +13,8 @@
     "type": "git",
     "url": "git+https://github.com/david1169/conspiracy.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "david1169",
+  "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/david1169/conspiracy/issues"
   },
